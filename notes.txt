@@ -1,0 +1,9 @@
+How can I visualize this data? 
+
+What do I want to find out? And what visualizations could reveal this? 
+  It'd be interesting to see how the volume of each main character's dialogue evolves over time
+  Currently I'm thinking a stacked bar chart, where each bar represents one episode 
+  Or maybe a grouped bar chart. 
+  A stacked bar chart would also reveal the total volume of dialogue per episode, 
+    while a grouped bar chart would better reveal the differences in dialogue volume between each character. 
+  I think the additional visualization of total volume is worth it, though. 
