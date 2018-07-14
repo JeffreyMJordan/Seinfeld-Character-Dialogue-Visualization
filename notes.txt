@@ -7,3 +7,11 @@ What do I want to find out? And what visualizations could reveal this?
   A stacked bar chart would also reveal the total volume of dialogue per episode, 
     while a grouped bar chart would better reveal the differences in dialogue volume between each character. 
   I think the additional visualization of total volume is worth it, though. 
+
+Actually, I don't think I should do this based on lines. I should do this based on total words. 
+I also need a script to change the data 
+  So for each episode I need...
+    An object with each character's name mapped to the total number of words they spoke 
+  I'm thinking I can store this in a giant json file
+    It can just be a giant array with an object representing each episode 
+  Ok, yeah this is good stuff 
